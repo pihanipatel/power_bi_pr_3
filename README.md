@@ -310,3 +310,8 @@ Its three report pages provide focused views of deposit growth, product distribu
 **Project Name:** Banking Analytics Dashboard  
 **Power BI File:** `pr_3.pbix`  
 **Documentation:** `README.md`
+
+## Project Video
+
+[Watch the Banking Analytics Dashboard video](https://drive.google.com/file/d/18WN2zOCz8a9TfznJvx5sLx2i9UD3zJSE/view?usp=sharing)
+
