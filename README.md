@@ -313,5 +313,5 @@ Its three report pages provide focused views of deposit growth, product distribu
 
 ## Project Video
 
-[Watch the Banking Analytics Dashboard video](https://drive.google.com/file/d/18WN2zOCz8a9TfznJvx5sLx2i9UD3zJSE/view?usp=sharing)
+[Watch the Banking Analytics Dashboard video](https://drive.google.com/file/d/14GSBsLi39CwdHfdWEnXoRjpj0luoZlF3/view?usp=sharing)
 
